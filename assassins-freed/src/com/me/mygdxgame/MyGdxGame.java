@@ -1,5 +1,7 @@
 package com.me.mygdxgame;
 
+//Test push for ASCode. Checked gdx.jar in order and export as well.
+
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL10;
